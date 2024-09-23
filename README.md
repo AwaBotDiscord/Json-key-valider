@@ -3,7 +3,7 @@ Script développé afin de vérifier que 2 fichiers ait les même keys. Très pr
 
 ## How to use ?
 
-```py
+```python
 python3 check.py file1.json file2.json
 ```
 
